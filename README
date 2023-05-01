@@ -1,0 +1,10 @@
+this repo simply contains the last few versions of the project code for swingsmart
+the FINAL versions are the two projects with the end label "COMBINED" - These two projects, for the client and server
+contain all of the functionaloities described in the final design report, and combine them into one project. These two are
+the project that was demonstrated to the professors during the demo session, and they are what the devices were programmed with
+during rotunda day. The other files are simply added for completeness in case for some reason someone needs to see them.
+
+The javascript display tool that we used was developed by someone else and we made small changes to it. That javascript project can
+be found at the link below:
+
+https://github.com/ZaneL/quaternion_sensor_3d_nodejs
